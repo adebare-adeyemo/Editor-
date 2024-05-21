@@ -1,4 +1,5 @@
-📜 Project Setup
+#📜 Project Setup
+
 This project uses 📦️ pnpm, but any package manager will work.
 
 1. Clone the Project
@@ -6,7 +7,7 @@ Clone the repository from GitHub:
 
 sh
 Copy code
-git clone https://github.com/mattcroat/editor.git
+git clone https://github.com/adebare-adeyemo/Editor.git
 2. Navigate to the Project Directory
 Change into the project directory:
 
