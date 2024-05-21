@@ -7,7 +7,7 @@ Clone the repository from GitHub:
 
 sh
 Copy code
-git clone https://github.com/adebare-adeyemo/Editor.git
+git clone https://github.com/adebare-adeyemo/Editor-.git
 2. Navigate to the Project Directory
 Change into the project directory:
 
